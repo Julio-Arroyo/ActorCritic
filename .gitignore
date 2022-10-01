@@ -1,0 +1,7 @@
+/__pycache__
+/medium.npy
+/models
+/results.py
+/rewards.npy
+/rewards_almost.npy
+/rewards_bad.npy
